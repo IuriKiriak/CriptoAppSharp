@@ -1,5 +1,8 @@
+using CriptoApp.Layout;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using System;
+
 
 namespace CriptoApp
 {
